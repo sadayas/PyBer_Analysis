@@ -1,6 +1,7 @@
 # PyBer Analysis
 
 ## Overview
+<<<<<<< HEAD
 With the use of our tools, we are be able to analyze the rideshare data of PyBer. The resulting dataframe will be used to create visualizations, in which show how each city fares.
 
 ## Result
@@ -20,3 +21,14 @@ To conclude,
 Overview of the analysis: Explain the purpose of the new analysis.
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+=======
+
+## Result
+
+## Summary
+
+
+Overview of the analysis: Explain the purpose of the new analysis.
+Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+>>>>>>> bf58d50740d0872f957afb4e1916c05629d73942
